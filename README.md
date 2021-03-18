@@ -1,3 +1,9 @@
+**Please note that this repository is no longer being maintained.**<br>
+Due to [a disagreement](https://github.com/wintercms/winter/issues/5) with the founders of October CMS, I will no longer be providing updates for the October CMS version of this plugin. I will keep the repository available for people to use, but will only be updating the [Winter CMS version](https://github.com/bennothommo/wn-meta-plugin) of this plugin.
+
+---
+<br>
+
 # Meta plugin
 
 Provides an easy interface to allow October CMS plugins to insert HTML `<meta>` and `<link>` tags, as well as JSON-LD blocks into a layout or page. The plugin provides three helper classes to populate the meta and link tags or JSON-LD blocks, and a component each to inject them into an October CMS layout, partial or page file.
